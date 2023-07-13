@@ -1,2 +1,3 @@
-# taom-delivery-bot
-it's a telgeram bot for delivering meat.
+# aiogram-bot-template
+Use this template only for creating new bots
+
