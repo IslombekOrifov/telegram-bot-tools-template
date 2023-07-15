@@ -7,6 +7,7 @@ from . import content_types
 from . import admin_handlers
 from . import states_handlers
 from . import other_handlers
+from . import anketa
 from . import help
 from . import start
 from . import echo
