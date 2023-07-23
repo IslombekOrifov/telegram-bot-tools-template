@@ -1,4 +1,5 @@
 from . import id_handlers
+from . import inline_keyboard_handlers
 from . import text_handlers
 from . import regex_handlers
 from . import change_lang
